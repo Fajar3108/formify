@@ -8,11 +8,10 @@ Note: This is a project for learning purposes
 
 ## Installation
 
----
-
 ### Clone
 
-Https: `git clone https://github.com/Fajar3108/formify.git`
+HTTPS: `git clone https://github.com/Fajar3108/formify.git`
+
 SSH: `git clone git@github.com:Fajar3108/formify.git`
 
 ---
